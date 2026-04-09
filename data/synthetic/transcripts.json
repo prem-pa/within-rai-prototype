@@ -1,0 +1,121 @@
+[
+  {
+    "transcript_id": "t_casper_001",
+    "client": "Casper",
+    "meeting_name": "Weekly Performance Review",
+    "date": "2026-04-07",
+    "participants": [
+      "Sarah (AM)",
+      "Jake (Client)"
+    ],
+    "text": "Sarah: Good morning Jake. Let's jump into the numbers for last week.\n\nJake: Sure, go ahead.\n\nSarah: So looking at Google Ads first \u2014 our Sleep Collection campaign saw a CTR drop of 12% week-over-week, from 4.8% down to 4.2%. CPC held steady at $1.34. Impressions were actually up 8%, so the volume is there but clicks aren't converting as well.\n\nJake: What's your read on the CTR drop? Audience fatigue?\n\nSarah: Probably. The creative set has been running for six weeks. I'd recommend we rotate in the new lifestyle images we got approved last month. On the Facebook side, things looked better \u2014 the Retargeting \u2014 Cart Abandoners campaign had a 3.1x ROAS, up from 2.7x the week before. Spend was $18,400 for the week.\n\nJake: That's solid. What about the TikTok test we kicked off?\n\nSarah: TikTok is still in the learning phase. We've spent $4,200 of the $15,000 test budget. CPM is running at $9.80 which is competitive. The pillow-in-use UGC content is outperforming the studio shots \u2014 22% higher engagement rate. I'd give it two more weeks before drawing conclusions.\n\nJake: Agreed. Let's plan to refresh the Google creative this week and keep TikTok running. What's total spend for April so far?\n\nSarah: We're at $62,500 of the $210,000 monthly budget. Pacing looks fine through end of month."
+  },
+  {
+    "transcript_id": "t_casper_002",
+    "client": "Casper",
+    "meeting_name": "Q2 Budget Planning Call",
+    "date": "2026-04-02",
+    "participants": [
+      "Sarah (AM)",
+      "Marcus (AM)",
+      "Jake (Client)",
+      "Dana (Client)"
+    ],
+    "text": "Marcus: Thanks everyone for joining. We want to walk through Q2 budget allocation and get sign-off.\n\nDana: We've got $620,000 total for Q2. How are you thinking about splitting it?\n\nSarah: Our recommendation is: Google Search 35%, Facebook/Instagram 30%, TikTok 15%, Programmatic Display 12%, and we'd hold 8% as a flex reserve for opportunities or tests.\n\nJake: What's the rationale for bumping TikTok from Q1's 8% to 15%?\n\nMarcus: Two things. First, Q1 TikTok ROAS came in at 2.4x despite still being in testing \u2014 that's ahead of where Facebook was at the same stage. Second, the 25-34 demo we're trying to reach on TikTok has 60% lower CPM than Facebook right now.\n\nDana: Makes sense. What about Search \u2014 any changes to campaign structure there?\n\nSarah: Yes, we're proposing to consolidate from 9 ad groups down to 6. We've had budget fragmentation issues where the smaller ad groups aren't getting enough data to optimize properly. Consolidating around the core product lines \u2014 Original, Wave, Snow, and accessories \u2014 should help Quality Score and lower CPC.\n\nJake: I like it. Dana, any concerns?\n\nDana: No, the consolidation makes sense. Let's go with the recommended split. Can you send the revised media plan by Friday?\n\nMarcus: Absolutely, I'll have it over by EOD Thursday."
+  },
+  {
+    "transcript_id": "t_casper_003",
+    "client": "Casper",
+    "meeting_name": "Creative Strategy Review",
+    "date": "2026-03-25",
+    "participants": [
+      "Sarah (AM)",
+      "Jake (Client)"
+    ],
+    "text": "Sarah: I wanted to go through the creative performance data from Q1 and get your input on Q2 direction.\n\nJake: Sure, what stood out?\n\nSarah: The lifestyle photography \u2014 people actually using the mattress in realistic bedroom settings \u2014 outperformed studio product shots by 34% on CTR across both Google Display and Facebook. The 'sleep science' angle we tested in February had strong engagement but lower conversion. People clicked and read but didn't buy.\n\nJake: That tracks with what we hear internally. The science content is good for brand but not for direct response.\n\nSarah: Exactly. So for Q2, my recommendation is to lean into lifestyle for direct response campaigns and reserve the educational content for top-of-funnel awareness placements where we're not optimizing for conversions.\n\nJake: What about video? We've been hesitant to invest there.\n\nSarah: I'd suggest a modest test \u2014 maybe two 15-second UGC-style videos shot on iPhone for TikTok and Instagram Reels. Low production cost, authentic feel. The bedding brands that are winning on TikTok right now are mostly using this format.\n\nJake: What would that cost to produce?\n\nSarah: If we work with one of our creator partners, probably $3,000-$5,000 for a package of 4-6 clips. We'd want to test against the static ads before scaling.\n\nJake: Let's do it. Put it in the Q2 plan."
+  },
+  {
+    "transcript_id": "t_casper_004",
+    "client": "Casper",
+    "meeting_name": "Monthly Business Review",
+    "date": "2026-03-31",
+    "participants": [
+      "Sarah (AM)",
+      "Marcus (AM)",
+      "Jake (Client)",
+      "Dana (Client)",
+      "VP Marketing (Client)"
+    ],
+    "text": "Marcus: Let's start with the March topline. Total ad spend was $198,400 against a $200,000 budget \u2014 99.2% pacing. Overall blended ROAS came in at 3.1x, versus the 2.8x target.\n\nVP Marketing: Good. What drove the outperformance?\n\nSarah: Three things. Facebook Retargeting continued to over-index \u2014 4.2x ROAS on $52,000 spend. Our Google Shopping campaigns benefited from a competitor pulling back in mid-March, so we captured incremental share at lower CPCs. And the Spring Sale campaign we ran March 22-28 delivered 3.8x on $28,000 spend.\n\nDana: The Spring Sale was really successful. What's our read on why it worked so well?\n\nSarah: The 20%-off offer was stronger than anything we'd run since Black Friday. We also launched the sale on a Tuesday and front-loaded spend on Tuesday-Wednesday, which historically sees less competition. Creative was fresh \u2014 the 'Better Sleep Starts Tonight' messaging tested well in our pre-launch polls.\n\nVP Marketing: I want to make sure we replicate those conditions for the Memorial Day campaign. Can you put together a brief on what made Spring Sale work?\n\nMarcus: Yes, I'll put that together this week. Should be useful context for the May planning session.\n\nJake: One thing I want to flag \u2014 our review volume on Google dropped in March. Not sure if it's related to ads but wanted to mention it.\n\nSarah: Worth monitoring. I don't think paid is a direct driver of review volume but it could be an indirect signal. I'll add review velocity to our KPI dashboard so we can track it going forward."
+  },
+  {
+    "transcript_id": "t_nike_001",
+    "client": "Nike",
+    "meeting_name": "Running Category Weekly",
+    "date": "2026-04-08",
+    "participants": [
+      "Tom (AM)",
+      "Priya (Client)"
+    ],
+    "text": "Tom: Priya, let's go through running category performance for the week of March 30 through April 5.\n\nPriya: Go ahead.\n\nTom: Pegasus 41 launch campaign is performing well. Google Search CTR is 6.2% against a 4.5% benchmark. We're seeing strong branded search volume \u2014 'Pegasus 41 release date' and 'Pegasus 41 vs 40' are the top organic assists. Paid CPC for non-branded running terms is $2.18, down from $2.67 last week as quality score improved.\n\nPriya: What's driving the quality score improvement?\n\nTom: We reorganized the ad groups to match intent more tightly \u2014 separating 'running shoes for marathon' from 'everyday running shoes' queries. Each ad group now has dedicated copy. The marathon-intent group has a 7.8% CTR, which is exceptional.\n\nPriya: That's great. What about Facebook and Instagram?\n\nTom: Meta is delivering strong reach on the video assets \u2014 the 'Run Your World' 30-second spot has 4.2M impressions at a $6.40 CPM. Video completion rate is 68% for the :15 cut and 51% for the :30, both above category benchmarks. Retargeting off the video viewers is converting at 2.9x ROAS.\n\nPriya: The :15 cut \u2014 is that the one with the track footage or the street running?\n\nTom: Street running. It's outperforming the track version by about 15% on completion rate. The street running feels more accessible to the core buyer.\n\nPriya: Makes sense. Any concerns heading into next week?\n\nTom: TikTok spend is a bit behind pace \u2014 we've spent $41,000 of the $180,000 monthly budget through day 8. I'd recommend increasing the daily budget cap by 20% this week to make sure we're not under-delivering."
+  },
+  {
+    "transcript_id": "t_nike_002",
+    "client": "Nike",
+    "meeting_name": "Back to School Planning",
+    "date": "2026-04-01",
+    "participants": [
+      "Tom (AM)",
+      "Lisa (AM)",
+      "Priya (Client)",
+      "Ryan (Client)"
+    ],
+    "text": "Lisa: Thanks for joining. We want to lock in the Back to School strategy early so we have enough lead time on creative development.\n\nRyan: What's the proposed timeline?\n\nTom: We're thinking a three-phase approach. Phase 1: Awareness, July 14 - July 28. Phase 2: Consideration, July 29 - August 11. Phase 3: Conversion push, August 12 - August 31.\n\nPriya: What's the total budget you're working with?\n\nLisa: Nike approved $3.2M for the BTS push across all digital channels. We're recommending: Google 40%, Meta 35%, TikTok 15%, YouTube 10%.\n\nRyan: YouTube feels light at 10%. BTS is big for our Jordan line and YouTube has historically been strong for Jordan storytelling content.\n\nTom: Fair point. We could shift 5% from Meta to YouTube and land at Google 40%, Meta 30%, TikTok 15%, YouTube 15%. That gives YouTube $480K which is enough for a real presence.\n\nPriya: What's the creative strategy for each phase?\n\nLisa: Phase 1 focuses on brand \u2014 'Ready for Anything' campaign. Phase 2 shifts to product \u2014 specific Jordan and Air Max SKUs for BTS. Phase 3 goes hard on promotions and urgency. We'd want 10-12 video assets for YouTube, 6-8 TikTok-native videos, and a full static set for Google and Meta.\n\nRyan: We should brief the creative team by April 15 to stay on schedule.\n\nLisa: Agreed. I'll coordinate with your team to get on their calendar this week."
+  },
+  {
+    "transcript_id": "t_nike_003",
+    "client": "Nike",
+    "meeting_name": "Women's Category Review",
+    "date": "2026-03-24",
+    "participants": [
+      "Tom (AM)",
+      "Priya (Client)"
+    ],
+    "text": "Tom: I want to walk through the women's category performance in Q1 and talk about where we see opportunity in Q2.\n\nPriya: Please.\n\nTom: Women's running drove 28% of total digital revenue in Q1 despite representing 22% of ad spend \u2014 so it's punching above its weight. The Invincible 3 in the women's colorway drove the most revenue, but the Vomero 17 women's launch in February was our highest-ROAS launch of the quarter at 4.1x.\n\nPriya: What was different about Vomero 17's launch?\n\nTom: A few things. We had 90 days lead time instead of the usual 45, so we could build an audience pipeline through email capture and retargeting pools before launch day. We also partnered with six female running creators on TikTok \u2014 their content generated 2.4M organic views in the two weeks before launch, which gave us warm audiences to target.\n\nPriya: That creator strategy is something we want to replicate. Who were the creators?\n\nTom: I'll get you the full list. They ranged from 50K to 800K followers \u2014 mid-tier mostly. The authenticity comes through better with mid-tier creators, and the cost is much lower than macro influencers.\n\nPriya: For Q2 \u2014 we have the Air Zoom Pegasus 41 women's and the new React Infinity Run. Which do you think we should push harder?\n\nTom: Pegasus 41 has the broader appeal and the men's launch has already seeded awareness. I'd make Pegasus 41 women's the hero campaign and position React Infinity as the specialist choice for injury-prone runners \u2014 that's a passionate niche that converts well."
+  },
+  {
+    "transcript_id": "t_hugoboss_001",
+    "client": "Hugo Boss",
+    "meeting_name": "Spring Collection Launch Review",
+    "date": "2026-04-06",
+    "participants": [
+      "Emma (AM)",
+      "Klaus (Client)"
+    ],
+    "text": "Emma: Klaus, let's review the Spring/Summer 2026 collection launch performance \u2014 we're now two weeks in.\n\nKlaus: How are we tracking against targets?\n\nEmma: Overall spend through April 5 is \u20ac94,200 against a \u20ac420,000 Q2 budget \u2014 pacing looks appropriate for the early phase. Revenue attribution from paid digital is \u20ac312,000, giving us a blended ROAS of 3.3x against a 2.5x target.\n\nKlaus: That's strong. Which channels are leading?\n\nEmma: Google Shopping is the standout \u2014 4.8x ROAS on \u20ac28,000 spend. The BOSS suits and the HUGO casualwear are both performing well. On Meta, the video carousel format featuring the Spring lookbook is outperforming single-image ads by 40% on CTR. We're seeing \u20ac2.4 CPCs on branded terms, which is in line with last year.\n\nKlaus: What about the new markets we're testing \u2014 the Netherlands and Belgium?\n\nEmma: Netherlands is surprisingly strong \u2014 CPC 18% below Germany, similar conversion rate. Audience there has high purchase intent. Belgium is more mixed \u2014 French-speaking regions underperform Dutch-speaking regions meaningfully. We may want to run separate campaigns by language.\n\nKlaus: Good catch on Belgium. Let's split those out. What's your read on the TikTok push for Spring?\n\nEmma: TikTok is a different story. BOSS has strong organic presence \u2014 890K followers \u2014 but converting that to paid performance has been harder. The polished content we normally run doesn't land as well on TikTok. I'd recommend producing 3-4 pieces of more native-feeling content before we scale spend there.\n\nKlaus: We have a shoot in Milan next week. I can brief the photographer on capturing some TikTok-style footage."
+  },
+  {
+    "transcript_id": "t_hugoboss_002",
+    "client": "Hugo Boss",
+    "meeting_name": "Digital Strategy Quarterly",
+    "date": "2026-04-03",
+    "participants": [
+      "Emma (AM)",
+      "Daniel (AM)",
+      "Klaus (Client)",
+      "Ingrid (Client)"
+    ],
+    "text": "Daniel: Thanks for making time, Klaus and Ingrid. We want to align on digital strategy priorities for the rest of 2026.\n\nIngrid: We're particularly focused on the BOSS vs HUGO brand split \u2014 we want to make sure the positioning is distinct in paid channels.\n\nEmma: That's something we've been working on. BOSS paid ads now skew 65% toward 35-54 age range targeting with premium lifestyle creative. HUGO is running younger \u2014 22-34 \u2014 with a more streetwear/casual aesthetic. The performance data is validating the split. BOSS average order value from paid is \u20ac340 vs \u20ac195 for HUGO, which tracks with the positioning.\n\nDaniel: We're also recommending a bigger investment in YouTube for the second half. Hugo Boss has incredible runway video content that's being underutilized. We're seeing competitor fashion brands achieve 3-4x ROAS on YouTube with long-form brand content.\n\nKlaus: What does a YouTube-focused campaign look like operationally?\n\nEmma: You'd need 2-3 hero videos (60-90 seconds) per brand per season, plus shorter cuts. We'd run TrueView campaigns targeting fashion enthusiasts and competitor brand audiences. We'd also deploy the content on YouTube Shorts in edited-down format to hit the mobile audience.\n\nIngrid: What's the minimum budget to do YouTube properly?\n\nDaniel: We'd recommend at least \u20ac80,000 per brand per season for YouTube to see meaningful results \u2014 that's \u20ac160K total. Right now you're spending essentially nothing there.\n\nKlaus: Let's model out a scenario where we shift 10% of Meta spend to YouTube and see what the projected impact looks like. Can you put that together?\n\nEmma: Absolutely, I'll have a modeling doc to you by end of week."
+  },
+  {
+    "transcript_id": "t_hugoboss_003",
+    "client": "Hugo Boss",
+    "meeting_name": "Performance Deep Dive",
+    "date": "2026-03-20",
+    "participants": [
+      "Emma (AM)",
+      "Klaus (Client)"
+    ],
+    "text": "Emma: Klaus, I wanted to do a deeper dive into March performance before we close the month.\n\nKlaus: Good timing, go ahead.\n\nEmma: March was a strong month. Total digital revenue attributed to paid: \u20ac1.1M. Total spend: \u20ac310,000. ROAS: 3.55x. That's the best month we've had since November.\n\nKlaus: What's driving that relative to February?\n\nEmma: Three factors. First, the spring creative refresh landed well \u2014 higher CTRs across the board, especially on Facebook where the lookbook carousel format drove a 28% CTR improvement. Second, the Google Shopping feed update we did in late February \u2014 adding fabric and care instructions to the product titles \u2014 improved impression share by 15%. Third, we caught a good week in late March where competitor CPMs were elevated due to a Zara campaign, so our relative position improved.\n\nKlaus: The feed update is interesting. That was a low-lift change that moved the needle.\n\nEmma: Exactly. We have a few more feed optimizations queued up \u2014 structured sizing data, more specific color descriptions, better category taxonomy. I'd estimate another 8-12% impression share improvement from the remaining optimizations.\n\nKlaus: Let's prioritize those. What's your view on where we're leaving money on the table?\n\nEmma: Honestly, retargeting. Our retargeting pools are large \u2014 we have 180,000 users who visited product pages in the last 30 days \u2014 but we're only spending \u20ac12,000/month targeting them. The ROAS on retargeting when we've tested it properly is 5-6x. I'd recommend doubling retargeting budget in April."
+  }
+]

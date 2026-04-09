@@ -1,0 +1,378 @@
+[
+  {
+    "message_id": "m_casper_001",
+    "client": "Casper",
+    "channel": "casper-account",
+    "user": "sarah_am",
+    "timestamp": "2026-04-08T09:15:00",
+    "text": "Morning team \u2014 quick heads up, Casper's Google CTR is showing improvement today. Looks like the new creative rotation is working."
+  },
+  {
+    "message_id": "m_casper_002",
+    "client": "Casper",
+    "channel": "casper-account",
+    "user": "marcus_am",
+    "timestamp": "2026-04-08T09:22:00",
+    "text": "Nice. What's the new CTR vs last week?"
+  },
+  {
+    "message_id": "m_casper_003",
+    "client": "Casper",
+    "channel": "casper-account",
+    "user": "sarah_am",
+    "timestamp": "2026-04-08T09:28:00",
+    "text": "4.6% vs 4.2% last Tuesday. Still below the 4.8% we had before the drop but trending right direction."
+  },
+  {
+    "message_id": "m_casper_004",
+    "client": "Casper",
+    "channel": "casper-account",
+    "user": "marcus_am",
+    "timestamp": "2026-04-08T10:05:00",
+    "text": "Jake just messaged \u2014 he wants to discuss increasing the TikTok budget by $5K for the rest of April. Says they've been happy with the early signals."
+  },
+  {
+    "message_id": "m_casper_005",
+    "client": "Casper",
+    "channel": "casper-account",
+    "user": "sarah_am",
+    "timestamp": "2026-04-08T10:12:00",
+    "text": "That works. We have room in the flex reserve. I'll put together a brief reallocation note for the weekly report."
+  },
+  {
+    "message_id": "m_casper_006",
+    "client": "Casper",
+    "channel": "casper-account",
+    "user": "sarah_am",
+    "timestamp": "2026-04-07T16:30:00",
+    "text": "End of day update: Facebook retargeting ROAS hit 3.4x today. Cart abandoner segment is really performing. Spend was $3,200 for the day."
+  },
+  {
+    "message_id": "m_casper_007",
+    "client": "Casper",
+    "channel": "casper-account",
+    "user": "ops_bot",
+    "timestamp": "2026-04-07T17:00:00",
+    "text": "[AUTOMATED] Daily spend report: Casper total $14,850. Google $6,200, Facebook $5,400, TikTok $2,100, Programmatic $1,150."
+  },
+  {
+    "message_id": "m_casper_008",
+    "client": "Casper",
+    "channel": "casper-account",
+    "user": "marcus_am",
+    "timestamp": "2026-04-06T11:30:00",
+    "text": "Heads up \u2014 Casper's main competitor Purple is running a heavy promo this week (25% off sitewide). We might see some CPC pressure on non-branded terms."
+  },
+  {
+    "message_id": "m_casper_009",
+    "client": "Casper",
+    "channel": "casper-account",
+    "user": "sarah_am",
+    "timestamp": "2026-04-06T11:45:00",
+    "text": "Good catch. I'm going to temporarily increase bids on the 'best mattress' and 'mattress reviews' terms by 15% to hold position."
+  },
+  {
+    "message_id": "m_casper_010",
+    "client": "Casper",
+    "channel": "casper-account",
+    "user": "marcus_am",
+    "timestamp": "2026-04-06T11:50:00",
+    "text": "Good call. Also worth adding a callout extension mentioning free returns \u2014 that's something Purple doesn't offer."
+  },
+  {
+    "message_id": "m_casper_011",
+    "client": "Casper",
+    "channel": "casper-account",
+    "user": "sarah_am",
+    "timestamp": "2026-04-05T14:20:00",
+    "text": "Weekly pacing check: $55,200 spent through end of day Sunday. $210K monthly budget. We're at 26.3% through day 5 of April \u2014 slightly ahead of pace but within normal range."
+  },
+  {
+    "message_id": "m_casper_012",
+    "client": "Casper",
+    "channel": "casper-account",
+    "user": "sarah_am",
+    "timestamp": "2026-04-04T09:00:00",
+    "text": "FYI \u2014 new creative assets approved by Casper yesterday. Uploading to Google and Facebook today. The lifestyle bedroom shots look really good."
+  },
+  {
+    "message_id": "m_casper_013",
+    "client": "Casper",
+    "channel": "casper-account",
+    "user": "ops_bot",
+    "timestamp": "2026-04-03T17:00:00",
+    "text": "[AUTOMATED] Weekly summary (Mar 31 - Apr 6): Casper impressions 4.2M, clicks 186K, avg CTR 4.4%, total spend $62,500, revenue $198,400, ROAS 3.17x."
+  },
+  {
+    "message_id": "m_casper_014",
+    "client": "Casper",
+    "channel": "casper-account",
+    "user": "marcus_am",
+    "timestamp": "2026-04-02T15:00:00",
+    "text": "Just off the Q2 budget call with Jake and Dana. They approved the recommended media split. I'll send the updated media plan by Thursday."
+  },
+  {
+    "message_id": "m_casper_015",
+    "client": "Casper",
+    "channel": "casper-account",
+    "user": "sarah_am",
+    "timestamp": "2026-04-02T15:10:00",
+    "text": "Great. TikTok going to 15% of budget is a real vote of confidence given how early we are. Let's not let them down."
+  },
+  {
+    "message_id": "m_nike_001",
+    "client": "Nike",
+    "channel": "nike-performance",
+    "user": "tom_am",
+    "timestamp": "2026-04-08T08:45:00",
+    "text": "Pegasus 41 launch is off to a strong start. Google Search CTR hit 6.2% overnight \u2014 that's way above our 4.5% benchmark."
+  },
+  {
+    "message_id": "m_nike_002",
+    "client": "Nike",
+    "channel": "nike-performance",
+    "user": "lisa_am",
+    "timestamp": "2026-04-08T08:52:00",
+    "text": "Nice. Priya is going to be happy. What's the CPC looking like?"
+  },
+  {
+    "message_id": "m_nike_003",
+    "client": "Nike",
+    "channel": "nike-performance",
+    "user": "tom_am",
+    "timestamp": "2026-04-08T08:58:00",
+    "text": "$2.18. Was $2.67 last week before the ad group restructure. Quality Score improvement is real."
+  },
+  {
+    "message_id": "m_nike_004",
+    "client": "Nike",
+    "channel": "nike-performance",
+    "user": "tom_am",
+    "timestamp": "2026-04-08T13:30:00",
+    "text": "TikTok is running behind pace. $41K spent of $180K budget through day 8. That's 22.8% vs the 25.8% we should be at. Recommend bumping daily cap 20%."
+  },
+  {
+    "message_id": "m_nike_005",
+    "client": "Nike",
+    "channel": "nike-performance",
+    "user": "lisa_am",
+    "timestamp": "2026-04-08T13:38:00",
+    "text": "Agreed. I'll make the change now. Ryan already approved any pacing adjustments under $10K/day in the SOW."
+  },
+  {
+    "message_id": "m_nike_006",
+    "client": "Nike",
+    "channel": "nike-performance",
+    "user": "ops_bot",
+    "timestamp": "2026-04-08T17:00:00",
+    "text": "[AUTOMATED] Daily spend report: Nike total $124,300. Google $52,100, Facebook/IG $43,800, TikTok $18,900, YouTube $9,500."
+  },
+  {
+    "message_id": "m_nike_007",
+    "client": "Nike",
+    "channel": "nike-performance",
+    "user": "tom_am",
+    "timestamp": "2026-04-07T10:00:00",
+    "text": "The 'Run Your World' :15 video is beating the :30 on completion rate \u2014 68% vs 51%. Makes sense, the street running footage is more scroll-stopping. Should we allocate more budget to the shorter cut?"
+  },
+  {
+    "message_id": "m_nike_008",
+    "client": "Nike",
+    "channel": "nike-performance",
+    "user": "lisa_am",
+    "timestamp": "2026-04-07T10:15:00",
+    "text": "Yes. Let's shift to 70/30 in favor of :15. Keep the :30 running for YouTube where longer content is expected."
+  },
+  {
+    "message_id": "m_nike_009",
+    "client": "Nike",
+    "channel": "nike-performance",
+    "user": "tom_am",
+    "timestamp": "2026-04-05T16:00:00",
+    "text": "BTS planning call with Ryan and Priya confirmed for April 1. Preparing deck on three-phase approach \u2014 Awareness, Consideration, Conversion. $3.2M total budget up for discussion."
+  },
+  {
+    "message_id": "m_nike_010",
+    "client": "Nike",
+    "channel": "nike-performance",
+    "user": "lisa_am",
+    "timestamp": "2026-04-05T16:10:00",
+    "text": "One thing to flag in that call \u2014 Ryan mentioned YouTube for Jordan storytelling. We should have a counter-proposal ready if they want to move budget from Meta to YouTube."
+  },
+  {
+    "message_id": "m_nike_011",
+    "client": "Nike",
+    "channel": "nike-performance",
+    "user": "tom_am",
+    "timestamp": "2026-04-04T11:00:00",
+    "text": "Women's category ROAS is tracking at 3.6x for Q2 so far. The Pegasus 41 women's launch plan is looking solid \u2014 creator outreach done, 6 confirmed partnerships."
+  },
+  {
+    "message_id": "m_nike_012",
+    "client": "Nike",
+    "channel": "nike-performance",
+    "user": "lisa_am",
+    "timestamp": "2026-04-03T09:30:00",
+    "text": "Reminder: Priya wants the creator list for the Vomero 17 women's launch by Friday. Tom, can you compile that?"
+  },
+  {
+    "message_id": "m_nike_013",
+    "client": "Nike",
+    "channel": "nike-performance",
+    "user": "tom_am",
+    "timestamp": "2026-04-03T09:45:00",
+    "text": "On it. Will have by Thursday EOD."
+  },
+  {
+    "message_id": "m_nike_014",
+    "client": "Nike",
+    "channel": "nike-performance",
+    "user": "ops_bot",
+    "timestamp": "2026-04-03T17:00:00",
+    "text": "[AUTOMATED] Weekly summary (Mar 31 - Apr 6): Nike impressions 18.4M, clicks 612K, avg CTR 3.3%, total spend $412,000, revenue $1.24M, blended ROAS 3.0x."
+  },
+  {
+    "message_id": "m_nike_015",
+    "client": "Nike",
+    "channel": "nike-performance",
+    "user": "tom_am",
+    "timestamp": "2026-04-02T14:00:00",
+    "text": "Quick note: non-branded running terms CPC dropped from $2.67 to $2.18 after ad group restructure. That's a meaningful efficiency gain. Good call on the reorganization, Lisa."
+  },
+  {
+    "message_id": "m_hugoboss_001",
+    "client": "Hugo Boss",
+    "channel": "hugoboss-digital",
+    "user": "emma_am",
+    "timestamp": "2026-04-08T09:00:00",
+    "text": "Spring collection campaign entering week 3. Google Shopping ROAS held at 4.8x yesterday. BOSS suits continue to drive the most revenue volume."
+  },
+  {
+    "message_id": "m_hugoboss_002",
+    "client": "Hugo Boss",
+    "channel": "hugoboss-digital",
+    "user": "daniel_am",
+    "timestamp": "2026-04-08T09:10:00",
+    "text": "Netherlands performance continues to impress \u2014 CPC 18% below Germany. Klaus is going to ask about expanding budget there, I'm sure."
+  },
+  {
+    "message_id": "m_hugoboss_003",
+    "client": "Hugo Boss",
+    "channel": "hugoboss-digital",
+    "user": "emma_am",
+    "timestamp": "2026-04-08T09:18:00",
+    "text": "Agreed. Let's have a Netherlands expansion brief ready for the next call. Also need to split Belgium by language \u2014 French vs Dutch is showing different performance."
+  },
+  {
+    "message_id": "m_hugoboss_004",
+    "client": "Hugo Boss",
+    "channel": "hugoboss-digital",
+    "user": "daniel_am",
+    "timestamp": "2026-04-07T15:30:00",
+    "text": "Klaus wants a YouTube scenario model \u2014 what if we shift 10% of Meta to YouTube? Need to show projected impact. Emma can you take this?"
+  },
+  {
+    "message_id": "m_hugoboss_005",
+    "client": "Hugo Boss",
+    "channel": "hugoboss-digital",
+    "user": "emma_am",
+    "timestamp": "2026-04-07T15:40:00",
+    "text": "Yes, will have by Friday. Will model out ROAS assumptions based on competitive fashion brand benchmarks and our own YouTube test data from Q4."
+  },
+  {
+    "message_id": "m_hugoboss_006",
+    "client": "Hugo Boss",
+    "channel": "hugoboss-digital",
+    "user": "ops_bot",
+    "timestamp": "2026-04-07T17:00:00",
+    "text": "[AUTOMATED] Daily spend report: Hugo Boss total \u20ac29,400. Google Shopping \u20ac11,200, Facebook/IG \u20ac10,800, Programmatic \u20ac4,900, YouTube \u20ac2,500."
+  },
+  {
+    "message_id": "m_hugoboss_007",
+    "client": "Hugo Boss",
+    "channel": "hugoboss-digital",
+    "user": "emma_am",
+    "timestamp": "2026-04-06T11:00:00",
+    "text": "Klaus confirmed there's a Milan shoot next week \u2014 he's briefing the photographer on capturing TikTok-style footage. This is great, it'll give us more native content to test."
+  },
+  {
+    "message_id": "m_hugoboss_008",
+    "client": "Hugo Boss",
+    "channel": "hugoboss-digital",
+    "user": "daniel_am",
+    "timestamp": "2026-04-06T11:15:00",
+    "text": "Good. BOSS organic TikTok has 890K followers \u2014 we should be able to drive serious reach once we have content that actually works in the format."
+  },
+  {
+    "message_id": "m_hugoboss_009",
+    "client": "Hugo Boss",
+    "channel": "hugoboss-digital",
+    "user": "emma_am",
+    "timestamp": "2026-04-05T14:00:00",
+    "text": "Q2 pacing update: \u20ac94,200 spent against \u20ac420K budget through April 5. ROAS tracking at 3.3x vs 2.5x target. Very healthy start to the quarter."
+  },
+  {
+    "message_id": "m_hugoboss_010",
+    "client": "Hugo Boss",
+    "channel": "hugoboss-digital",
+    "user": "daniel_am",
+    "timestamp": "2026-04-05T14:10:00",
+    "text": "3.3x vs 2.5x target is great. The spring lookbook creative is clearly working. Video carousel is up 40% CTR vs single image."
+  },
+  {
+    "message_id": "m_hugoboss_011",
+    "client": "Hugo Boss",
+    "channel": "hugoboss-digital",
+    "user": "emma_am",
+    "timestamp": "2026-04-04T10:00:00",
+    "text": "Retargeting proposal sent to Klaus \u2014 recommending double the budget from \u20ac12K to \u20ac24K/month. We have 180K product page visitors in the 30-day window and we're barely touching them."
+  },
+  {
+    "message_id": "m_hugoboss_012",
+    "client": "Hugo Boss",
+    "channel": "hugoboss-digital",
+    "user": "daniel_am",
+    "timestamp": "2026-04-04T10:15:00",
+    "text": "5-6x ROAS on retargeting is hard to argue with. I expect Klaus to approve this pretty quickly."
+  },
+  {
+    "message_id": "m_hugoboss_013",
+    "client": "Hugo Boss",
+    "channel": "hugoboss-digital",
+    "user": "ops_bot",
+    "timestamp": "2026-04-03T17:00:00",
+    "text": "[AUTOMATED] Weekly summary (Mar 31 - Apr 6): Hugo Boss impressions 6.1M, clicks 198K, avg CTR 3.2%, total spend \u20ac94,200, revenue \u20ac310,400, ROAS 3.3x."
+  },
+  {
+    "message_id": "m_hugoboss_014",
+    "client": "Hugo Boss",
+    "channel": "hugoboss-digital",
+    "user": "emma_am",
+    "timestamp": "2026-04-02T09:00:00",
+    "text": "March final numbers in: \u20ac1.1M digital revenue, \u20ac310K spend, 3.55x ROAS. Best month since November. Spring creative refresh and feed optimization both contributed."
+  },
+  {
+    "message_id": "m_hugoboss_015",
+    "client": "Hugo Boss",
+    "channel": "hugoboss-digital",
+    "user": "daniel_am",
+    "timestamp": "2026-04-02T09:10:00",
+    "text": "3.55x is excellent. The remaining feed optimizations Emma has queued up could add another 8-12% impression share. Good Q2 setup."
+  },
+  {
+    "message_id": "m_hugoboss_016",
+    "client": "Hugo Boss",
+    "channel": "hugoboss-digital",
+    "user": "emma_am",
+    "timestamp": "2026-04-01T16:00:00",
+    "text": "Reminder: BOSS vs HUGO brand split is working well in paid \u2014 BOSS targeting 35-54, AOV \u20ac340. HUGO targeting 22-34, AOV \u20ac195. Keeping ad creative and audiences separate is key."
+  },
+  {
+    "message_id": "m_hugoboss_017",
+    "client": "Hugo Boss",
+    "channel": "hugoboss-digital",
+    "user": "daniel_am",
+    "timestamp": "2026-04-01T16:15:00",
+    "text": "Ingrid specifically mentioned she wants the brand split to be maintained. Let's make sure that's called out clearly in the quarterly review deck."
+  }
+]
