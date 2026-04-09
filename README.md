@@ -4,12 +4,10 @@ RAG pipeline demo showing how call transcripts and Slack channel data are added 
 
 ## Setup
 
-### 1. Create and activate a virtual environment
+### 1. Install dependencies
 
 ```bash
-python3.11 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
+uv sync
 ```
 
 > **Note:** `FlagEmbedding` with `BAAI/bge-m3` downloads ~2.3 GB on first run. The model is cached locally after the first download.
@@ -33,7 +31,7 @@ Create a free Qdrant Cloud account at [cloud.qdrant.io](https://cloud.qdrant.io)
 ### 3. Generate synthetic data
 
 ```bash
-python data/synthetic/generate_data.py
+uv run python data/synthetic/generate_data.py
 ```
 
 This writes `data/synthetic/transcripts.json` and `data/synthetic/slack_messages.json`.
@@ -41,7 +39,7 @@ This writes `data/synthetic/transcripts.json` and `data/synthetic/slack_messages
 ### 4. Run the API
 
 ```bash
-uvicorn app.main:app --reload
+uv run uvicorn app.main:app --reload
 ```
 
 The API starts at `http://localhost:8000`. On startup it creates the `rai_knowledge_base` collection in Qdrant if it doesn't exist.
@@ -51,7 +49,7 @@ The API starts at `http://localhost:8000`. On startup it creates the `rai_knowle
 In a second terminal:
 
 ```bash
-streamlit run frontend/app.py
+uv run streamlit run frontend/app.py
 ```
 
 Opens at `http://localhost:8501`.
