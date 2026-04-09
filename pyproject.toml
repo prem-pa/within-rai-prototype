@@ -2,7 +2,7 @@
 name = "within-rai-prototype"
 version = "0.1.0"
 description = "RAG pipeline demo: call transcripts + Slack as knowledge sources with hybrid search and client-level filtering"
-requires-python = ">=3.11"
+requires-python = ">=3.11,<3.15"
 dependencies = [
     "fastapi==0.115.6",
     "uvicorn[standard]==0.32.1",
@@ -13,4 +13,10 @@ dependencies = [
     "streamlit==1.41.1",
     "python-dotenv==1.0.1",
     "httpx==0.28.1",
+]
+
+[tool.uv]
+override-dependencies = [
+    "tokenizers>=0.21.0",
+    "transformers>=4.47.0",
 ]
